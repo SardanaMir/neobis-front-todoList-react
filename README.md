@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# ToDoList App
+Hello! i'd to like present 'ToDoList App'. The app helps you to manage your business and personal tasks.
+You can add tasks, choose business and personal category of your tasks and mark the tasks as done.
+Also there are to edit added tasks feature and delete as well.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Well, let's go!
 
-## Available Scripts
+The main page looks like:<br>
 
-In the project directory, you can run:
+![2023-10-23_15-49-18__500](https://github.com/SardanaMir/neobis-front-todoList/assets/134269662/4961eeb9-9fcf-4ca3-88f3-93024ffcad5b)
 
-### `npm start`
+Double click and enter your name:<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![2023-10-23_15-55-29](https://github.com/SardanaMir/neobis-front-todoList/assets/134269662/648c61d3-bd63-4f63-a068-d86e18ce2b36)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The next step is to enter your task in the input area. For example, today I need to buy bread.
+Well done!<br></br>
+![2023-10-23_18-19-25](https://github.com/SardanaMir/neobis-front-todoList/assets/134269662/2840c956-dd3e-475b-8029-e678193d08b2)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Choose your task's category. Available categories are business and personal.
+Pick the checkbox.<br></br>
+![2023-10-23_15-49-18__02](https://github.com/SardanaMir/neobis-front-todoList/assets/134269662/8a0e0ce5-937e-4a88-a699-08fae290af0c)
 
-### `npm run build`
+Well, you entered your task and chose your task's category of . It's time to add to your ToDoList.
+You can add tasks as many as want.<br></br>
+![2023-10-23_16-03-04](https://github.com/SardanaMir/neobis-front-todoList/assets/134269662/457bdd8b-ba96-4f3d-a5bc-48a800b6fd2e)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Okay, you have added yor first task to your ToDoList<br></br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![2023-10-23_18-23-38](https://github.com/SardanaMir/neobis-front-todoList/assets/134269662/1481ba38-49ad-464f-b49e-ed5adc7d0f2e)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+So it's time to learn how to manage your added task.
+As you see on the right panel there are two buttons 'Edit' and 'Delete'.
+Well if you realise that you need to edit your task it is easy to do that just push 'Edit' button.
+Or if you want to delete task from the list push 'Delete' button.
+Now you can edit your task.<br></br>
+![2023-10-23_16-07-12](https://github.com/SardanaMir/neobis-front-todoList/assets/134269662/aea793da-a5c3-4d3d-bb18-18d95e817385)
 
-### `npm run eject`
+Well when you complete your task you can mark the task as done <br></br>
+![2023-10-23_16-08-59](https://github.com/SardanaMir/neobis-front-todoList/assets/134269662/ea1bb73c-fb83-4177-b7e8-b0abf6351a84)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Created by Sardana Dordzhieva <br>
+E-mail: sardanadord@yandex.ru
