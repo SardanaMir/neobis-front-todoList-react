@@ -9,10 +9,6 @@ The main page looks like:<br>
 
 ![2023-10-23_15-49-18__500](https://github.com/SardanaMir/neobis-front-todoList/assets/134269662/4961eeb9-9fcf-4ca3-88f3-93024ffcad5b)
 
-Double click and enter your name:<br>
-
-![2023-10-23_15-55-29](https://github.com/SardanaMir/neobis-front-todoList/assets/134269662/648c61d3-bd63-4f63-a068-d86e18ce2b36)
-
 The next step is to enter your task in the input area. For example, today I need to buy bread.
 Well done!<br></br>
 ![2023-10-23_18-19-25](https://github.com/SardanaMir/neobis-front-todoList/assets/134269662/2840c956-dd3e-475b-8029-e678193d08b2)
